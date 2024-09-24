@@ -16,7 +16,7 @@ const Footer = () => {
           {/* Company Info */}
           <div>
             <Image
-              src="/logo.png"
+              src="/Logo.png"
               height={180}
               width={180}
               alt="Inaayat Logo"

@@ -62,7 +62,7 @@ export default function PhoneLogin() {
         <CardHeader className="space-y-1 items-center">
           <div className="w-20 h-20 mb-4 relative">
             <Image
-              src="/logo.png"
+              src="/Logo.png"
               alt="Logo"
               height={100}
               width={100}
