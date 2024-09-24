@@ -23,7 +23,7 @@ const GiftSection = () => {
               Gift Of Health, <br /> Gift Of Impact.
             </h1>
             <p className="text-gray-700 body-medium mb-6">
-              When every human being is unique, why should your gift be like someone else's? Explore the wide range of premium curations by Inaayat and experience the joy of gifting customised handcrafted assortments!
+              When every human being is unique, why should your gift be like someone else&apos;s? Explore the wide range of premium curations by Inaayat and experience the joy of gifting customised handcrafted assortments!
             </p>
             <button className="inline-flex items-center px-6 py-1 border border-transparent small-medium font-medium rounded-full shadow-sm text-white bg-pink-700 hover:bg-pink-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 transition-colors duration-300">
               EXPLORE MORE

@@ -17,7 +17,7 @@ const testimonials = [
     name: "HARBHAJAN KAUR",
     image: "/images/utensils2.png",
     rating: 5,
-    text: "I don't remember when was the last time I saw brass utensils, so when my daughter told me about Inaayat, I had an instant sense of nostalgia looking at their products. I feel so thankful to them for reviving and bringing back our traditional utensils in our kitchens, rab raakha!",
+    text: "I don&apos;t remember when was the last time I saw brass utensils, so when my daughter told me about Inaayat, I had an instant sense of nostalgia looking at their products. I feel so thankful to them for reviving and bringing back our traditional utensils in our kitchens, rab raakha!",
   },
   // Add more testimonials as needed
 ];
